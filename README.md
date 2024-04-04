@@ -1,6 +1,6 @@
 ### Hi there, Welcome to my Github 👋
 
-##Tanishq Javvaji
+## Tanishq Javvaji
 ## Cybersecurity Professional & Graduate Student
 
 🎓 I'm currently pursuing a **Master of Engineering in Cybersecurity** at the **University of Maryland, College Park**, with an expected graduation in May 2024. I hold a Bachelor's degree in **Electronics and Communications Engineering** from **Gandhi Institute of Technology and Management**.
