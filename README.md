@@ -29,8 +29,8 @@
 
 ### Certifications
 
-- eLearnSecurity Junior Penetration Tester (eJPT)
-- Certified Ethical Hacker (CEH)
+- eLearnSecurity Junior Penetration Tester **(eJPT)**
+- Certified Ethical Hacker **(CEH)**
 
 ### Let's Connect
 
