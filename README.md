@@ -3,7 +3,7 @@
 ## Tanishq Javvaji
 ## Cybersecurity Professional & Graduate Student
 
-🎓 I'm currently pursuing a **Master of Engineering in Cybersecurity** at the **University of Maryland, College Park**, with an expected graduation in May 2024. I hold a Bachelor's degree in **Electronics and Communications Engineering** from **Gandhi Institute of Technology and Management**.
+🎓 Graduated in May 2024 with a **Master of Engineering in Cybersecurity** from the University of Maryland, College Park. I hold a **Bachelor's degree in Electronics and Communications Engineering** from Gandhi Institute of Technology and Management.
 
 🔍 My academic and professional journey in cybersecurity is driven by a deep passion for securing digital environments and a commitment to continuous learning. 
 
