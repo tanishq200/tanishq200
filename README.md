@@ -1,45 +1,72 @@
-### Hi there, Welcome to my Github 👋
+
+### Hi there, welcome to my GitHub 👋
 
 ## Tanishq Javvaji
-## Cybersecurity Professional & Graduate Student
 
-🎓 Graduated in May 2024 with a **Master of Engineering in Cybersecurity** from the University of Maryland, College Park. I hold a **Bachelor's degree in Electronics and Communications Engineering** from Gandhi Institute of Technology and Management.
+### Cyber Security Analyst | Incident Response | Threat Detection Engineering
 
-🔍 My academic and professional journey in cybersecurity is driven by a deep passion for securing digital environments and a commitment to continuous learning. 
-
-### Technical Skills
-- **Programming Languages**: C, Python, SQL, JavaScript
-- **Tools & Technologies**: Node.js, Django, Splunk, Burp Suite, Wireshark, Nessus, AWS, Nmap, Metasploit
-- **Frameworks & Standards**: NIST SP 800-53, CIS Controls
-- **Operating Systems**: Linux, Windows
-
-### Experience
-
-- **Graduate Assistant - IT Operations**, University of Maryland
-  - Implemented user access control measures, automated tasks with AWS Lambda, and enhanced system security through MFA and WAF deployments.
-
-- **Cybersecurity Intern**, Cyvergence.ai
-  - Conducted risk/compliance assessments, managed secure migrations, and developed cybersecurity policies.
-
-### Projects
-
-- **Enterprise Resource Planning | Secure Coding**: Developed an enterprise resource system emphasizing secure coding practices and OWASP guidelines.
-
-- **Advanced Binary Exploitation**: Demonstrated expertise in vulnerability exploitation techniques, including buffer overflows and shellcode injection.
-
-### Certifications
-
-- eLearnSecurity Junior Penetration Tester **(eJPT)**
-- Certified Ethical Hacker **(CEH)**
-
-### Let's Connect
-
-[![LinkedIn Badge](https://img.shields.io/badge/-TanishqJavvaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanishqjavvaji/)](https://www.linkedin.com/in/tanishqjavvaji/)
-[![GitHub followers](https://img.shields.io/github/followers/tanishq200?label=Follow&style=social)](https://github.com/tanishq200)
-
-Feel free to reach out for collaborations or just a chat about all things cybersecurity!
+🎓 I’m a cybersecurity professional with a Master of Engineering in Cybersecurity from the University of Maryland, College Park, and a Bachelor’s in Electronics and Communications Engineering from Gandhi Institute of Technology and Management.
 
 ---
 
-> "In the ever-evolving landscape of cybersecurity, the pursuit of knowledge is endless."
+#### 🚀 About Me
+
+I specialize in incident response, threat detection, and digital forensics, with hands-on experience across SIEM, EDR, IDS/IPS, and cloud security. My approach is rooted in driving measurable improvements-reducing false positives, accelerating response times, and integrating automation to streamline security operations. I’m passionate about leveraging frameworks like MITRE ATT\&CK and the Cyber Kill Chain to proactively defend digital environments and communicate complex findings clearly to all stakeholders.
+
+---
+
+#### 🛠️ Technical Skills
+
+- **Programming \& Scripting:** Python, Bash, PowerShell, SQL
+- **Security Tools:** Splunk, Elastic Stack, Cortex XSOAR, Velociraptor, Wireshark, Suricata, Zeek, TheHive, ServiceNow, OSQuery, Microsoft Sentinel, TCPDump
+- **Cloud \& Infrastructure:** AWS (EC2, S3, Lambda, GuardDuty, WAF, CloudTrail), Azure, GCP, Terraform, Docker, Kubernetes
+- **Security Domains:** Incident Response, Threat Detection, Digital Forensics, Malware Analysis, SIEM/EDR, IDS/IPS, Firewall Management, Threat Intelligence, Access Control, MFA, Social Engineering
+- **Compliance \& Frameworks:** NIST 800-53, CIS Controls, HIPAA, GDPR, PCI-DSS, SOX, SOC 2, ISO 27001
+
+---
+
+#### 💼 Experience
+
+- **Cyber Security Analyst, University of Maryland (2024–Present):**
+    - Optimized SIEM detections (Splunk ES, Elastic Security), reducing false positives by 30+ alerts/week and boosting response readiness.
+    - Automated IR playbooks with Cortex XSOAR, handling 75+ cases per quarter.
+    - Led forensic investigations and authored 20+ post-incident reports for both technical and non-technical audiences.
+    - Integrated threat intelligence (MISP), authored Sigma rules, and provided containment recommendations during major incidents.
+- **Graduate Assistant – Security Operations Center, University of Maryland (2023–2024):**
+    - Led IR across Windows, Linux, and Mac endpoints, achieving a 98% containment success rate.
+    - Triaged 150+ monthly alerts with an 18-minute average resolution time.
+    - Mentored junior analysts and implemented MITRE ATT\&CK-based detection and remediation.
+- **GRC Analyst, Cyvergence.ai (2023):**
+    - Conducted NIST 800-53/CIS assessments, identifying 50+ security gaps.
+    - Enhanced user access management and reduced unauthorized access by 25% via JumpCloud migration.
+
+---
+
+#### 🧑‍💻 Projects
+
+- **Secure Cloud Migration:** Hardened AWS web app with IAM, GuardDuty, WAF, and automated deployments using Terraform.
+- **Pastebin Microservices:** Built and deployed a scalable, containerized app on AWS ECS, EC2, S3, and RDS.
+- **Multi-Cloud Home Lab:** Simulated attacks and threat detection across Azure, GCP, and AWS, integrating Suricata, Zeek, Splunk, LimaCharlie, and OSQuery for comprehensive telemetry.
+
+---
+
+#### 🏅 Certifications
+
+- EC-Council Certified Ethical Hacker (CEH)
+- eLearnSecurity Junior Penetration Tester (eJPT)
+- CompTIA Security+
+- SANS GIAC Certified Incident Handler (GCIH)
+
+---
+
+#### 📫 Let’s Connect
+
+
+
+Feel free to reach out for collaborations, project ideas, or a conversation about cybersecurity, automation, and cloud security!
+
+---
+
+> “In cybersecurity, every alert is an opportunity to learn, adapt, and strengthen our digital world.”
+
 
