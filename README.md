@@ -3,7 +3,7 @@
 
 ## Tanishq Javvaji
 
-### Cyber Security Analyst | Incident Response | Threat Detection Engineering
+### Security Engineer | Incident Response | Threat Detection Engineering | Appsec Engnieerning
 
 🎓 I’m a cybersecurity professional with a Master of Engineering in Cybersecurity from the University of Maryland, College Park, and a Bachelor’s in Electronics and Communications Engineering from Gandhi Institute of Technology and Management.
 
