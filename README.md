@@ -27,7 +27,7 @@ I specialize in incident response, threat detection, and digital forensics, with
 
 #### 💼 Experience
 
-- **Cyber Security Analyst, University of Maryland (2024–Present):**
+- **Security Engineer, University of Maryland (2024–Present):**
     - Optimized SIEM detections (Splunk ES, Elastic Security), reducing false positives by 30+ alerts/week and boosting response readiness.
     - Automated IR playbooks with Cortex XSOAR, handling 75+ cases per quarter.
     - Led forensic investigations and authored 20+ post-incident reports for both technical and non-technical audiences.
